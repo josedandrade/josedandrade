@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @josedandrade
+- 👋 Hi,
 - 👀 I’m interested in natural language processing (NLP), in particular natural legal language processing (NLLP)
 - 🌱 I’m currently finishing a postgraduate degree in Computational Linguistics and AI
 - 💞️ I'm focusing my work on argument mining using knowledge graphs
-- 📫 How to reach me? dandrade@legaldesign.do or dandrade.jose@gmail.com
 
 <!---
 josedandrade/josedandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
